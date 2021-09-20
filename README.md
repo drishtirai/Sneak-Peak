@@ -1,2 +1,3 @@
 # Sneak-peak
-A simple chat UI
+A simple chat UI\
+Sneak-Peak is simple-looking chat box interface is made in bootstrap. In this Snippet, tried to show how the chatbox interface with the bootstrap grid system, this project, you will see a small chat button in the bottom right corner with a chatbox icon. Message field, send option, the seen-unseen checkmark is there in the interface.It opens when the user clicks on it. you will see a tick mark which means the message delivered to the person on the other side, and you will also see a double tick mark which means the user has visited the message. Many options like the name of the user, profile picture, and current status (online or offline) are there. The designer used HTML, CSS, and javascript design, this commonly used chat box interface.
